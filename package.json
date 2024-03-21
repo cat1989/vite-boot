@@ -1,0 +1,18 @@
+{
+  "name": "vite-boot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [
+    "vite"
+  ],
+  "author": "cat1989",
+  "license": "ISC",
+  "bin": {
+    "vite-boot": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
+}
