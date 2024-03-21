@@ -1,0 +1,37 @@
+{
+    "name": "vite-boot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "lib/index.js",
+    "keywords": [
+      "vite"
+    ],
+    "author": "cat1989",
+    "license": "ISC",
+    "bin": {
+      "vite-boot": "bin/index.js"
+    },
+    "files": [
+      "bin",
+      "lib"
+    ],
+    "devDependencies": {
+      "@types/react": "^18.2.67",
+      "@types/react-dom": "^18.2.22",
+      "@types/react-router-dom": "^5.3.3",
+      "@vitejs/plugin-react": "^4.2.1",
+      "@vitejs/plugin-vue": "^5.0.4",
+      "less": "^4.2.0",
+      "sass": "^1.72.0",
+      "typescript": "^5.4.3",
+      "vite": "^5.2.2"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.22.3",
+      "vue": "^3.4.21",
+      "vue-router": "^4.3.0"
+    }
+  }
+  
